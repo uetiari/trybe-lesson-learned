@@ -82,8 +82,8 @@ Através desta aplicação, será possível realizar a construção de código H
 
 ## Data de Entrega
 
-  - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Será `1` dia de projeto.
+  - Data de entrega para avaliação final do projeto: `29/06/2021 - 14:00h`.
 
 ---
 
@@ -92,6 +92,7 @@ Através desta aplicação, será possível realizar a construção de código H
 ### Antes de começar a desenvolver
 
 1. Clone o repositório
+  * Antes de clonar este repositório, tenha certeza de que você **NÃO** está em um diretório que já é um repositório git. 
   * `git clone git@github.com:tryber/sd-014-b-project-lessons-learned.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-014-b-project-lessons-learned`
