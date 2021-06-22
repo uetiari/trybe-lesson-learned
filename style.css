@@ -53,3 +53,10 @@ nav ul li {
 #navigation a:hover{
   color: white;
 }
+
+.lessonslist_aprendidas, .lessonslist_aprender {
+  font-size: 15px;
+  color: blue;
+  line-height: 50px;
+  font-family: Verdana, Tahoma, sans-serif; 
+}
