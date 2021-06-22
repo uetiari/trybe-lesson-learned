@@ -40,8 +40,8 @@ a:hover {
 }
 
 nav ul li {
-   list-style: none;
-   padding: 10px 5px 20px 15px;
+  list-style: none;
+  padding: 10px 5px 20px 15px;
 }
 
 #navigation a {
@@ -62,7 +62,7 @@ nav ul li {
   font-family: Verdana, Tahoma, sans-serif;
 }
 
-.lessonslist_aprendidas{ 
+.lessonslist_aprendidas { 
   margin-left: 15px;
 }
 
