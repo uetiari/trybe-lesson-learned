@@ -1,20 +1,20 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
 
 body {
   background-color: rgb(253, 251, 251);
-  color: #0c0c0c;
+  color: #000;
 }
 
 a {
   text-decoration: none;
-  color: #0c0c0c;
-  font-weight: bold;
+  color: #000;
+  font-weight: 400;
 }
 
-a:hover{
+a:hover {
   color: seagreen;
 }
 
