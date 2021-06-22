@@ -55,14 +55,14 @@ nav ul li {
   color: white;
 }
 
-.lessonslist_aprendidas, .lessonslist_aprender {
+.lessonslist_aprendidas,.lessonslist_aprender {
   font-size: 15px;
   color: blue;
   line-height: 50px;
   font-family: Verdana, Tahoma, sans-serif;
 }
 
-.lessonslist_aprendidas { 
+.lessonslist_aprendidas {
   margin-left: 15px;
 }
 
