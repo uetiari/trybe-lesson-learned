@@ -1,10 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: rgb(253, 251, 251);
+    color: #0c0c0c;
+}
+
+a {
+    text-decoration: none;
+    color: #0c0c0c;
+    font-weight: bold;
+}
+
+a:hover{
+    color: seagreen;
 }
 
 #cabecalho {
     position: fixed;
     top: 0;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 70px;
+    background-color: seagreen;
 }
 
+#titulo {
+    color: rgb(214, 212, 212);
+    margin-top: 10px;
+}
 
+#navigation {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 100px;
+}
