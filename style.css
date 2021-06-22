@@ -33,24 +33,25 @@ a:hover {
   margin-top: 10px;
 }
 
-#navigation ul{
+#navigation ul {
   display: flex;
   justify-content: flex-start;
   margin-top: 100px;
 }
+
 nav ul li {
    list-style: none;
    padding: 10px 5px 20px 15px;
 }
 
-#navigation a{
+#navigation a {
   background-color: seagreen;
   margin: 10px;
   padding: 10px;
   border: 1px solid seagreen;
 }
 
-#navigation a:hover{
+#navigation a:hover {
   color: white;
 }
 
@@ -58,5 +59,24 @@ nav ul li {
   font-size: 15px;
   color: blue;
   line-height: 50px;
-  font-family: Verdana, Tahoma, sans-serif; 
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+.lessonslist_aprendidas{ 
+  margin-left: 15px;
+}
+
+.lessonslist_aprender {
+  margin-left: 100px;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  margin-left: 30px;
+  margin-bottom: 10px;
+}
+
+.lado-direito {
+  display: inline-block;
+  margin-left: 30px;
 }
