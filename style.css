@@ -5,12 +5,12 @@
 
 body {
   background-color: rgb(253, 251, 251);
-  color: #000;
+  color: black;
 }
 
 a {
   text-decoration: none;
-  color: #000;
+  color: black;
   font-weight: 400;
 }
 
