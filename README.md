@@ -4,7 +4,6 @@
 
 ## SUMÁRIO
 
-- [Habilidades Desenvolvidas](#habilidades-desenvolvidas)
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Instruções para rodar o projeto](#instruções-para-rodar-o-projeto)
   - [Lista de requisitos](#lista-de-requisitos-pedidos-pela-trybe)
@@ -26,13 +25,6 @@
     - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
 
 
-## Habilidades Desenvolvidas
-
-* Utilizar _HTML_ para construir páginas WEB.
-* Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
-* Utilizar _CSS_ para adicionar estilo e posicionar elementos.
-
----
 
 ## O que foi desenvolvido
 
