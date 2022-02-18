@@ -2,14 +2,12 @@
 
 # Bem vindo(a) ao repositório do projeto Lições Aprendidas!
 
--
-
 ## SUMÁRIO
 
 - [Habilidades Desenvolvidas](#habilidades-desenvolvidas)
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Instruções para rodar o projeto](#instruções-para-rodar-o-projeto)
-  - [Lista de requisitos](#lista-de-requisitos)
+  - [Lista de requisitos](#lista-de-requisitos-pedidos-pela-trybe)
     - [1. Adicione uma cor de fundo específica para a página](#1-adicione-uma-cor-de-fundo-específica-para-a-página)
     - [2. Adicione uma barra superior com um título](#2-adicione-uma-barra-superior-com-um-título)
     - [3. Adicione uma foto sua à página](#3-adicione-uma-foto-sua-à-página)
@@ -44,7 +42,7 @@ Foi desenvolvido uma página HTML estilizada com CSS, com informações sobre o 
 ## Instruções para rodar o projeto
   * `git clone git@github.com:uetiari/trybe-lesson-learned.git`.
   * `cd trybe-lesson-learned.git`,
-  * npm install
+  * `npm install`.
 
 ---
 
