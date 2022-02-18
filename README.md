@@ -47,10 +47,11 @@ Foi desenvolvido uma página HTML estilizada com CSS, com informações sobre o 
 ---
 
 ### Lista de requisitos pedidos pela [Trybe](https://www.betrybe.com/)
+ (texto a baixo da Trybe)
 
 ### 1. Adicione uma cor de fundo específica para a página
 
-Possuir cor de fundo: rgb(253, 251, 251)
+- Possuir cor de fundo: rgb(253, 251, 251)
 
 **O que será verificado:**
 
